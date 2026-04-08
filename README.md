@@ -83,7 +83,7 @@
 <h2 align="center">🐍 Contributions 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MustbeThabz/MustbeThabz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thabz/Thabz/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
@@ -92,10 +92,10 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=MustbeThabz&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MustbeThabz&show_icons=true&theme=react&border_radius=10" alt="GitHub Readme Stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=Thabz&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Thabz&show_icons=true&theme=react&border_radius=10" alt="GitHub Readme Stats" />
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustbeThabz&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabz&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
