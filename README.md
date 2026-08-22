@@ -27,7 +27,7 @@
 ## 🌐 Connect With Me
 
 <div align="center"> 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:tebogodipalett@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/tebogo-dipale-4bb996a2/" target="_blank">
@@ -83,7 +83,7 @@
 <h2 align="center">🐍 Contributions 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thabz/Thabz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MustbeThabz/MustbeThabz/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
@@ -92,10 +92,10 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=Thabz&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Thabz&show_icons=true&theme=react&border_radius=10" alt="GitHub Readme Stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=MustbeThabz&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MustbeThabz&theme=github_dark" alt="GitHub Readme Stats" />
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabz&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustbeThabz&theme=github_dark" alt="Top Languages" />
 </div>
 
 ---
