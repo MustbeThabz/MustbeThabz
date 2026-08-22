@@ -45,11 +45,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,postgres,mysql,redis,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,langchain,mongodb,postgres,mysql,redis,firebase" />
     <br/>
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vim,figma,aws,ubuntu,linux" />
-    <br/>
-    <img src="https://img.shields.io/badge/Artificial%20Intelligence-0B0F19?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 </div>
 
 ---
