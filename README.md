@@ -45,9 +45,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,langchain,mongodb,postgres,mysql,redis,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,postgres,mysql,redis,firebase" />
     <br/>
     <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vim,figma,aws,ubuntu,linux" />
+    <br/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </div>
 
 ---
